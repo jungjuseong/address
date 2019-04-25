@@ -30,3 +30,7 @@
 - 핵심 가치를 어떻게 이해하고 활용하고 있는가?
 
 
+## 소프트웨어 개발에서의 핵심 가치
+
+![](https://insights-images.thoughtworks.com/core20values20and20practices20for20building20software01_00a29631b977dd5fcb93d374abd5e7fd.png)
+
