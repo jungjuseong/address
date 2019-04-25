@@ -36,5 +36,5 @@
 
 ## 티맥스 워크샵
 
-![](http://peopleplus.co.kr/files/attach/images/154/726/009/66ad90feb21c17cb7eb9eaacb68b8559.jpg)
+![](http://peopleplus.co.kr/files/attach/images/154/726/009/6f019bfe1bce16c9258bdf0c82dc5200.jpg)
 
