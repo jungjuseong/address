@@ -38,6 +38,11 @@
 
 ![](http://peopleplus.co.kr/files/attach/images/154/726/009/6f019bfe1bce16c9258bdf0c82dc5200.jpg)
 
+## IBM
+
+![](https://t1.daumcdn.net/cfile/tistory/250E1633527C40A727)
+
+
 # 기업의 리더가 진정 해야 할 일
 
 ## 기업의 문화를 만드는 것
