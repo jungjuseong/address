@@ -140,7 +140,7 @@ _업의 개념을 알고 그에 따른 제도와 시스템을 설계하면 좋�
 
 ![](http://nimage.globaleconomic.co.kr/phpwas/restmb_allidxmake.php?idx=5&simg=201701111052182479559_20170111105355_01.jpg)
 
-### 가장 안좋은 리더는 변덕이다
+### 가장 안좋은 리더는 ________ 이 심한 리더이다
 
 ![](http://www.hbrkorea.com/upload_dir/board/0%EC%84%A0%EC%9D%BC0/6New%20Folder/june20_1.png)
 
