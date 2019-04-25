@@ -34,3 +34,7 @@
 
 ![](https://insights-images.thoughtworks.com/core20values20and20practices20for20building20software01_00a29631b977dd5fcb93d374abd5e7fd.png)
 
+## 티맥스 워크샵
+
+![](http://peopleplus.co.kr/files/attach/images/154/726/009/66ad90feb21c17cb7eb9eaacb68b8559.jpg)
+
