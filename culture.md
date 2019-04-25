@@ -9,3 +9,13 @@
   - 핵심가치와 비전의 충돌
 
 ![](https://previews.123rf.com/images/liravega258/liravega2581609/liravega258160900027/64418254-%EB%9D%BC%EC%9D%B8-%ED%8F%89%EB%A9%B4-%EB%B2%A1%ED%84%B0-%EB%B9%84%EC%A6%88%EB%8B%88%EC%8A%A4-%EB%94%94%EC%9E%90%EC%9D%B8-%EB%B0%8F-%EC%A7%81%EC%97%85-%ED%9B%84%EB%B3%B4-%ED%8F%89%EA%B0%80-%EC%9D%B8%ED%84%B0%EB%B7%B0-%ED%8F%89%EA%B0%80-%EC%B1%84%EC%9A%A9-%EC%9E%90%EC%9B%90-%EA%B8%B0%EC%97%85-%EA%B2%BD%EC%98%81-%EA%B3%A0%EC%9A%A9-%EA%B3%A0%EC%9A%A9-%EC%A7%81%EC%97%85-%EA%B0%9C%EB%85%90%EC%97%90-%EB%8C%80%ED%95%9C-%EC%9D%B8%ED%8F%AC-%EA%B7%B8%EB%9E%98%ED%94%BD-%EC%9A%94%EC%86%8C.jpg)
+
+## Question
+
+1. 우리 회사의 미션은 무엇이며 어떻게 정착해야 할 것인가?
+
+2. 직업이란 개념을 어떻게 이해하고 있는가?
+
+3. 핵심 가치는 무엇이고 제 역할을 하려면 어떻게 해야 하는가?
+
+
