@@ -82,3 +82,13 @@
     * 스토리지의 Android/iOS 2개 디렉토리 구조 분리(Android쪽 구조로 합쳐야 함)
         - 221.143.22.213 서버의 구조 참고 필요
         - 위치 : Volumes > Data > data > server > newcms > data > app …
+
+### 2. PDF Viewer
+
+- 약관 등의 PDF 문서를 보기 위해 사용
+- 사용 기술 : JavaScript, Jquery (PDFJs 오픈소스 기반)
+- 관련 업체 : KB 손해보험
+=> 웹용 뷰어 + 앱(iOS / Android) 뷰어
+
+* 뷰어 개발 관련 : 기오정 차장님
+* KB 손해보험 관련 : 백지웅 과장님(iOS 앱), 현가람 대리(서식제작)
