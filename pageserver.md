@@ -98,22 +98,22 @@
 - 유치원/초등학교 인성교육 목적의 인성교재 컨텐츠 사용과 관련하여 인성교재 앱 접속 인증을 위한 인증 서버
 - 사용 기술 : jsp + spring + mysql
 - 관련 업체 : 으뜸정보기술
-        * 클비시스템 내에 인증서버 구축되어 있음
+- 클비시스템 내에 인증서버 구축되어 있음
 
 * 관련 : 이재호 대표님, 기오정 차장님
 * 인성교재 인증서버 구동 현황
-- URL: clbee.iptime.org:18080
-- 관리자 계정 (“으뜸정보기술”에서도 알고 있음) (service/!1q2w3e4r)
-- 설치 서버 (192.168.10.190) Mac 서버
-- tomcat 위치 /usr/local/apache-tomcat-7.0.82
-- 인성교재 인증서버 /usr/local/apache-tomcat-7.0.82/webapps/clbee_is
-- tomcat manager url : http://clbee.iptime.org:18080/manager
-        *  id : admin / pwd : vpdlwlqlfejCms2014 (페이지빌더Cms2014)
+    - URL: clbee.iptime.org:18080
+    - 관리자 계정 (“으뜸정보기술”에서도 알고 있음) (service/!1q2w3e4r)
+    - 설치 서버 (192.168.10.190) Mac 서버
+    - tomcat 위치 /usr/local/apache-tomcat-7.0.82
+    - 인성교재 인증서버 /usr/local/apache-tomcat-7.0.82/webapps/clbee_is
+    - tomcat manager url : http://clbee.iptime.org:18080/manager
+        * id : admin / pwd : vpdlwlqlfejCms2014 (페이지빌더Cms2014)
 
 * 인성교재 인증서버 수정 이력
 
 - 20180316(금)
 - 각 계정들 패스워드 출력 요구
--  패스워드 암호화 모두 제거한 상태
+- 패스워드 암호화 모두 제거한 상태
 
-향후 인성교재 인증서버 관련해서 작업한 이력은 별도로 관리 해주셔야 합니다.
+향후 인성교재 인증서버 관련해서 작업한 이력은 별도로 관리 필요
