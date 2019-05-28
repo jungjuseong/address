@@ -25,4 +25,6 @@
 > 정기적으로 회사에서 비슷한 형식으로 수행하는 **프로젝트** - **리피터**라고도 부름
 
 - 실패할 위험이 크다.
-- 프로젝
+- 경험있고 기술이 있는프로젝트 관리자가 필요.
+
+>‘Every project begins on paper as an ideal, as a vision of perfection and quickly becomes mired in the confusion of budget, size and opposition of NIMBY’s'. 2 Consequently, the best way to start a project is to carry out a feasibility study that results in a clear brief and statement of the requirements (see Part III). Nevertheless, there are features that are common to all projects regardless of size.
