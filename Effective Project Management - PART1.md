@@ -27,4 +27,21 @@
 - 실패할 위험이 크다.
 - 경험있고 기술이 있는프로젝트 관리자가 필요.
 
->‘Every project begins on paper as an ideal, as a vision of perfection and quickly becomes mired in the confusion of budget, size and opposition of NIMBY’s'. 2 Consequently, the best way to start a project is to carry out a feasibility study that results in a clear brief and statement of the requirements (see Part III). Nevertheless, there are features that are common to all projects regardless of size.
+>‘모든 프로젝트는 종이에서 이상적이고 완벽한 비전으로 시작한다. 곧이어 비용의 혼동, 크기와 님비의 반대를 직면한다. 2 따라서 최상의 방법은 타당성 프로젯트를 먼저 수행하여 요구사항을 명료하게 정리하여야 한다.(see Part III). 그러나 규모와 관계없이 공통적인 특징들이 있다.
+
+## 1. 프로젝트의 특성
+
+* 반복적이지 않다.
+
+* 아이디어가 산출물로 나타나는 단계가 존재한다.
+
+* 프로젝트의 고유성 때문에 반드시 리스크가 존재한다.
+
+* 투자 대비 이득이 무엇인지 즉, 비즈니스 목표가 있다.
+
+* 변경이 쉽다
+
+    - 비즈니스 또는 시장의 상황이 변화하므로 프로젝트는 범위가 많이 달라진다
+    - 프로젝트가 재정적으로 살아남으려면 비용을 줄여야 한다. ==> 범위를 줄여야 한다는 뜻
+    - 아이디어는 크지만 예산이 한정되므로 아이디어는 축소되야 한다.
+    
